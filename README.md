@@ -1,7 +1,7 @@
 # Space Debris Analytics Program Proposal
 Spring 2019 Storytelling with Data - Columbia University
 
-The main project delivered for this class was an Analytical program to better measure space debris.
+The main project delivered for this class was an analytical program to better measure space debris.
 
 <img src="figs/Comic.jpg" width="1000">
 
