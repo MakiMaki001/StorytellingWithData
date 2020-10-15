@@ -19,10 +19,10 @@ The currently known in orbit data is open source, therefore the data pertaining 
  
 ### ASSESMENT: 
 This study will be judged on the results from implementations of its suggestions in relation to risks realized from increasing space debris. The judgment could come from multiple factors:
-•	The decrease and normalization of space capacity utilization
-•	The crashing of space debris to other vehicles in space after recommendations implemented
-•	The destruction of earth’s environment due to crashing decay (this would be a failure of the overall science community as it has been repeatedly assured that this poses little risk to earth).
-•	Accuracy of launch count and vehicle type projections and their rate of decay in space.  
++	The decrease and normalization of space capacity utilization
++	The crashing of space debris to other vehicles in space after recommendations implemented
++	The destruction of earth’s environment due to crashing decay (this would be a failure of the overall science community as it has been repeatedly assured that this poses little risk to earth).
++	Accuracy of launch count and vehicle type projections and their rate of decay in space.  
  
 ### CONCLUSION: 
 The often-referenced Moore’s Law has driven humanity to technological levels exhibiting our unlimited capacity for innovation. Space has been a direct beneficiary in this exponential growth, which leaves us with the responsibility to cultivate this technological growth in the most effective way. A critical component of this is keeping the earth’s orbit usable and not letting our own innovations make growth in space more difficult than it already is. Studies such as this will help us in achieving the goal of having the space around our planet be usable for future innovations, explorations, and for the evolution of mankind’s grasp of our universe. 
