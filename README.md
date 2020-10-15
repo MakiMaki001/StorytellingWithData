@@ -3,6 +3,8 @@ Spring 2019 Storytelling with Data class
 
 The main project delivered for this class was an Analytical program to better measure space debris.
 
+<img src="figs/Comic.jpg" width="500">
+
 ## INTRO: 
 The exponential increase in yearly rocket launches and deployments of in- orbit assets has made it necessary for us to understand the limits to which human activity should pollute space. This project will look at the historical growth of space asset deployment, project the continuation of launches in the future, and propose solutions for which we can better control polluting the space outside of earth’s atmosphere. This analysis will add context to amount of assets that are currently in space, the amount of new objects slated for launch in the near future, how many decayed objects will this lead to in the future (space debris), and whether current coordination efforts are impactful in controlling this risk. With this information, NASA, the US Government, and international space agencies will be better prepared to come to an agreement of utilizing space while protecting any adverse impacts of too many objects being deployed.
  
